@@ -1,7 +1,14 @@
 find a short passage from a book, article or website on topics i enjoy. ask 3 different llms to explain, expand, summearize on these articles.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#1.1 chatgpt -low orbit satalites: https://www.basecampconnect.com/leo-satellite-systems/
-  
+questions asked:
+-can you please read the following article and explain in your own words to a mechanical engineer the topics covered.
+ https://www.basecampconnect.com/leo-satellite-systems/?
+-can you expand on the uses of low orbit satellites for communication systems, specifically on creating a supernode over LEO?
+-can you summarize the contents you just presented with the key points focusing on supernode communication and design?
+
+#1.1 chatgpt -low orbit satalites: 
+
   explain:
   Certainly! The article discusses the basics of Low Earth Orbit (LEO) satellite systems and their applications in communications. Here's a summary in simpler terms:
   Satellites orbit the Earth at different altitudes, with the main categories being Geostationary Earth Orbit (GEO), Medium Earth Orbit (MEO), and Low Earth Orbit (LEO). LEO satellites, the focus of the article, 
@@ -102,8 +109,14 @@ summarize:
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-      
+questions asked:
+-can you please read the following article and explain in your own words to a mechanical engineer the topics covered.
+ https://www.basecampconnect.com/leo-satellite-systems/?
+-can you expand on the uses of low orbit satellites for communication systems, specifically on creating a supernode over LEO?
+-can you summarize the contents you just presented with the key points focusing on supernode communication and design? 
+
 #1.3 pi -low orbit satalites
+
   explain:
    - Of course, Zack. This article discusses the growing concerns of open source developers regarding the increasing dependence of open source software development on venture capital investments. It highlights the   
      potential risks that come with relying on a limited set of wealthy investors who are likely to prioritize profits over the needs of the open source community.
