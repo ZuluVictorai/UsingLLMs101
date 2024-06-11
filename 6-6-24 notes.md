@@ -7,7 +7,7 @@ questions asked:
 -can you expand on the uses of low orbit satellites for communication systems, specifically on creating a supernode over LEO?
 -can you summarize the contents you just presented with the key points focusing on supernode communication and design?
 
-#1.1 chatgpt -low orbit satalites: 
+#1.1 claude -low orbit satalites: 
 
   explain:
   Certainly! The article discusses the basics of Low Earth Orbit (LEO) satellite systems and their applications in communications. Here's a summary in simpler terms:
