@@ -1,6 +1,7 @@
 find a short passage from a book, article or website on topics i enjoy. ask 3 different llms to explain, expand, summearize on these articles.
 
 #1.1 chatgpt -low orbit satalites: https://www.basecampconnect.com/leo-satellite-systems/
+  
   explain:
   Certainly! The article discusses the basics of Low Earth Orbit (LEO) satellite systems and their applications in communications. Here's a summary in simpler terms:
   Satellites orbit the Earth at different altitudes, with the main categories being Geostationary Earth Orbit (GEO), Medium Earth Orbit (MEO), and Low Earth Orbit (LEO). LEO satellites, the focus of the article, 
@@ -49,6 +50,7 @@ expand:
    B service availability.
   
 summarize:
+ 
   Sure, here's a summary of the key points focusing on the supernode communication capabilities and design aspects of LEO satellite constellations:
   -Interconnected Mesh Network:
       LEO satellites are interconnected through inter-satellite links, forming a mesh network in space.
@@ -74,9 +76,15 @@ summarize:
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+questions asked:
+-can you please read the following article and explain in your own words to a mechanical engineer the topics covered.
+ https://www.basecampconnect.com/leo-satellite-systems/?
+-can you expand on the uses of low orbit satellites for communication systems, specifically on creating a supernode over LEO?
+-can you summarize the contents you just presented with the key points focusing on supernode communication and design?
 
     
 #1.2 chatgpt-low orbit satalites
+  
   explain:
     The article explains Low Earth Orbit (LEO) satellite systems, which operate up to 2,000 km above Earth. LEO satellites move quickly, completing an orbit in about 90 minutes, and require constellations for continuous 
     coverage. They use the L-band frequency, which is less prone to atmospheric interference. Benefits include lower latency and cost, higher bandwidth, and better resistance to jamming, making them suitable for 
